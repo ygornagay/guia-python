@@ -1,6 +1,6 @@
 Guia do Sobrevivente: Python 🐍
   
-Bem-vindos, mochileiros cósmicos! 🚀 Este é o Guia do Sobrevivente: Python, a apostila oficial da turma de Técnico de Inteligência Artificial do SENAC, guiada pelo lendário professor Peterson. Criado com muito café, piadas ruins, e uma pitada de Toto - Africa, este guia é a nave mãe pra quem tá começando a desbravar Python — a linguagem que vai te transformar num herói ou heroína da IA!  
+Bem-vindos, mochileiros cósmicos! 🚀 Este é o Guia do Sobrevivente: Python, a apostila oficial da turma de Técnico de Inteligência Artificial do SENAC, guiada pelo lendário professor Peterson. Criado com muito café, piadas ruins, este guia é a nave mãe pra quem tá começando a desbravar Python — a linguagem que vai te transformar num herói ou heroína da IA!  
 Essa é a primeira versão (v1.0), lançada em abril de 2025, e estamos em modo privado por enquanto, testando as águas antes de abrir pro cosmos. Quer ajudar a tornar o guia mais épico? Fale com o dono do repositório pra ser convidado como colaborador! 😄
 
 📖 Sobre o Projeto
@@ -42,11 +42,8 @@ Copie os códigos da apostila pro VS Code.
 Salve com extensão .py e clique no triângulo verde pra rodar.
 Teste, mude valores, e divirta-se!
 
-
-
-Dica Pro: Ative o Auto Save no VS Code (Arquivo > Auto Save) pra não perder sua mochila cósmica! 🛠️
-
 📂 Estrutura do Repositório
+#Ainda precisa melhorar esse mapa!!!!!
 Aqui tá o mapa da nossa nave espacial:
 /guia-python
 ├── guia_do_sobrevivente.md    # Apostila principal (Markdown)
@@ -84,7 +81,7 @@ Criar imagens ou badges pra deixar o repositório mais estiloso.
 Passo a Passo pra Contribuir
 
 Seja Convidado:
-Fale com o dono do repositório (via e-mail, Discord, ou issue) pra ganhar acesso.
+Fale com o dono do repositório (via e-mail, Discord, ou Teams) pra ganhar acesso.
 
 
 Clone o Repositório:git clone https://github.com/seu_usuario/guia-python.git
@@ -184,19 +181,14 @@ Participe da discussão pra moldar o futuro do guia!
 
 🙌 Agradecimentos
 
-Professor Peterson: Por lançar os códigos e guiar a turma no caminho do Python.
+Professor Peterson Chiquetto (https://github.com/petersonchiquetto): Por lançar os códigos e guiar a turma no caminho do Python.
 Turma de Tec. de IA - SENAC: Pelas risadas, dúvidas, e energia de sobreviventes.
 Você, mochileiro: Por embarcar nessa jornada e ajudar a tornar o guia melhor!
-Toto e Scorpions: Por fornecerem a trilha sonora perfeita. 🎸
-
 
 📬 Contato
 Dúvidas? Sugestões? Quer compartilhar um meme Python? 🐍
 
 Issues: Abra uma issue no GitHub pra reportar bugs, sugerir ideias, ou pedir ajuda.
-E-mail: email@example.com
-Discord da Turma: Pergunte no canal oficial da turma (adicione o link, se tiver!).
+E-mail: ygornagay@gmail.com
 
-Frase Motivacional: "Se o código não rodar, respira fundo, releia com calma, e chame a comunidade. Juntos, vamos sobreviver ao Python!" 😄
-
-PRÓXIMO CAPÍTULO: Git e GitHub e o commit sagrado. Até Mais, Vlw. Risada maléfica. 😈
+Frase Motivacional: "Se o código não rodar, respira fundo, releia com calma, e chame a comunidade. Juntos, vamos sobreviver ao Python!" 😈
