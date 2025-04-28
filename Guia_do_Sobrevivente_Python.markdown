@@ -4,7 +4,7 @@
 
 # Guia do Sobrevivente: Python 🐍
 
-Bem-vindos, sobreviventes! Esta é um guia e um resumo dos nossos primeiros passos no mundo de Python, com o professor Peterson. Nessa apostila, teremos os códigos do professor explicados, exercícios resolvidos e até um guia pra domar o VS Code. Se Python parece um alienígena, relaxa: vamos traduzi-lo pro humanês com analogias, piadinhas e paciência infinita. Preparado pra virar um herói ou heroína da nossa turma de Tec. de IA? 🚀
+Bem-vindos, sobreviventes! Esta é um guia e um resumo dos nossos primeiros passos no mundo de Python, com o professor Peterson Chiquetto (https://github.com/petersonchiquetto). Nessa apostila, teremos os códigos do professor explicados, exercícios resolvidos e até um guia pra domar o VS Code. Se Python parece um alienígena, relaxa: vamos traduzi-lo pro humanês com analogias, piadinhas e paciência infinita. Preparado pra virar um herói ou heroína da nossa turma de Tec. de IA? 🚀
 
 ---
 
