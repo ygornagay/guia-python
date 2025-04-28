@@ -683,4 +683,4 @@ Se nada deu certo, respira fundo, releia com calma, ore, chore se precisar, mas 
 
 ## PRÓXIMO CAPÍTULO: Git e GitHub e o commit sagrado. Até Mais, Vlw.
 
-![Teaser do Próximo Capítulo: Git e GitHub](img/teaser_github.png)
+![Teaser do Próximo Capítulo: Git e GitHub](teaser_github.png)
