@@ -1,6 +1,6 @@
 # Técnico de Inteligência Artificial - SENAC
 
-![Capa do Guia do Sobrevivente: Python](img/capa_inicial.png)
+![Capa do Guia do Sobrevivente: Python](capa_inicial.png)
 
 # Guia do Sobrevivente: Python 🐍
 
